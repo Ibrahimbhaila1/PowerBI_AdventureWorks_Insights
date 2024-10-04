@@ -64,7 +64,7 @@ After preparing the data, the next step was to conduct the actual analysis and c
 
 ![image](https://github.com/user-attachments/assets/315c3ad4-af8a-4608-b92d-3c6613c74e89)
 
-- **Return Rates by Product**: The highest return rate was observed in the **Bikes** category, which accounted for **60%** of all returns, followed by **Accessories** at **25%**.
+- **Return Rates by Product**: The highest return rate was observed in the **Accessories** category, which accounted for **60%** of all returns, followed by **Bikes** at **25%**.
 - **Sales and Profit**: The analysis showed that total sales amounted to **$14.45 million**, and profits reached **$3.97 million** by the year **2021**, maintaining a steady profit margin of **37%** over the years.
 
 ![image](https://github.com/user-attachments/assets/67bade65-c2b1-4a03-9de1-f9678b03b077)
